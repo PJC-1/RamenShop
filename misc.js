@@ -1,30 +1,26 @@
-/////////////
-// NOODLES //
-/////////////
+///////////////////
+// MISCELLANEOUS //
+///////////////////
 
-var noodles = {
-	name  : "Sun Ramen Noodles",
-	price : "$3.00 each"
-};
 
 ////////////
 // DAY 01 //
 ////////////
 
-// 1. Place Pork-Bones in a big bowl filled with water in the fridge over-night
-// 2. Cook Chashu and then place in fridge over-night
-// 3. Soak Kombu over night in the fridge
-// 4. Prepare mayu
+// 1. Place pork bones in a big bowl filled with water in the fridge over-night.
+// 2. Cook chashu and then place in fridge over-night.
+// 3. Soak kombu over-night in the fridge.
+// 4. Prepare mayu.
 
 
 ////////////
 // DAY 02 //
 ////////////
 
-// 1. Cook eggs and marinate
-// 2. Rehidrate the shitake mushrooms
-// 3. Start the broth
-// 4. Prepare all toppings
+// 1. Cook eggs and marinate them in the fridge.
+// 2. Rehidrate the shiitake mushrooms.
+// 3. Start the broth.
+// 4. Prepare all toppings.
 
 
 ////////////////
@@ -32,10 +28,11 @@ var noodles = {
 ////////////////
 
 var vocabulary = {
-	mayu        : "Black garlic oil",
-	niboshi     : "Dried baby sardines",
-	kombu       : "Dried kelp",
-	katsuobushi : "Dried fermented and smoked skipjack tuna (aka bonito flakes)"
+	katsuobushi     : "Dried fermented and smoked skipjack tuna (aka bonito flakes)",
+	ajitsuke_tamago : "Marinated soft boiled egg",
+	niboshi         : "Dried baby sardines",
+	mayu            : "Black garlic oil",
+	kombu           : "Dried kelp"
 };
 
 ///////////
@@ -45,16 +42,16 @@ var vocabulary = {
 var notes = [
 	{
 		q : "How many servings did the recipe yeild?",
-		a : "10 - 14 servings (depending on the size of the bowl)"
+		a : "10 - 14 servings (depending on the size of the bowl)."
 	},
 	{
-		q : "What size pot if you use to cook the broth?",
-		a : "16 quart stockpot"
+		q : "What size pot do you use to cook the broth?",
+		a : "16 quart stockpot."
 	},
 	{
-		q : "Hesitant to add water during cooking?",
+		q : "Should I be hesitant to add water during cooking?",
 		a : "Absolutely add more water during the actual cooking process. You need "
-        + "bones to be able to move around and be totally submerged"
+        + "bones to be able to move around and be totally submerged."
 	},
 	{
 		q : "How much tare do you usually put in?",

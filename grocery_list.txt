@@ -8,11 +8,11 @@
 // MEAT //
 //////////
 
-[ ]  Pork Belly ------------------ ~4 lbs (2 slabs)
-[ ]  Chicken Feet ---------------- 2 lbs
-[ ]  Chicken Backs --------------- 3 lbs (Can be subsituted with Stewing Chicken)
+[ ]  Pork Belly ----------------- ~4 lbs (2 slabs)
 [ ]  Stewing Chicken ------------- ~2-3 lbs
 [ ]  Pork Neck Bones ------------- ~4-6 lbs
+[ ]  Chicken Feet ---------------- 2 lbs
+[ ]  Chicken Backs --------------- 3 lbs (Can be subsituted with Stewing Chicken)
 
 
 
@@ -20,11 +20,11 @@
 // PRODUCE //
 /////////////
 
+[ ]  Ginger ---------------------- 1 2-inch piece
+[ ]  Green Onion ----------------- 2 bunches
 [ ]  Leek ------------------------ 1
 [ ]  Onion ----------------------- 1
 [ ]  Galic ----------------------- 2 bulbs
-[ ]  Ginger ---------------------- 1 2-inch piece
-[ ]  Green Onion ----------------- 2 bunches
 
 
 
@@ -32,12 +32,12 @@
 // MISCELLANEOUS //
 ///////////////////
 
-[ ]  eggs ------------------------ 6
-[ ]  sun noodles ----------------- ~5-6 packages
-[ ]  menma ----------------------- 1 jar
-[ ]  shiitake mushrooms ---------- 1 package
-[ ]  nori ------------------------ 1 package
-[ ]  soy sauce ------------------- 1 bottle
-[ ]  sesame oil ------------------ 1 bottle
-[ ]  cooking-twine --------------- 1 ball
-[ ]  salt ------------------------ n/a
+[ ]  Sun Noodles ----------------- ~5-6 packages
+[ ]  Shiitake Mushrooms ---------- 1 package
+[ ]  Cooking-twine --------------- 1 ball
+[ ]  Soy Sauce ------------------- 1 bottle
+[ ]  Sesame Oil ------------------ 1 bottle
+[ ]  Menma ----------------------- 1 jar
+[ ]  Nori ------------------------ 1 package
+[ ]  Eggs ------------------------ 6
+[ ]  Salt ------------------------ n/a

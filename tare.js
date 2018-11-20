@@ -4,18 +4,18 @@
 
 var tareIngredients = {
 	kombu        : "5-7 3x3 inch squares (~2 sheets)",
+	bonitoFlakes : "1 cup (loosely packed)",
 	waterToCover : "~3 cups",
-	niboshi      : "3/4 cup",
 	sesameOil    : "1 tbs",
-	bonitoFlakes : "1 cup loosely packed",
+	soySauce     : "~1-1.5 cup",
+	niboshi      : "3/4 cup",
 	sake         : "1/4 cup",
 	mirin        : "1/4 cup",
-	soySauce     : "~1-1.5 cup",
 	salt         : "to taste (~ 3 tbs)"
 };
 
 var tareInstructions = {
-	1   : "Cover the kombu with water enough to cover. Let sit overnight, or at "
+	1   : "Add water to the kombu enough to cover. Let sit overnight, or at "
 		+ "least 3 hours, in the fridge.",
 	2   : "When ready, add sesame oil to a medium sauce pan over medium heat.",
 	3   : "Cut off the heads of the niboshi to avoid bitterness.",
@@ -32,7 +32,6 @@ var tareInstructions = {
 	9   : "Add in the soy sauce, and bring to 176 again. Let sit at this temp for a "
 		+ "few minutes to concentrate.",
 	10  : "Add in an equal part of the fish broth made earlier. Season with salt "
-		+ "until quite salty (like, to the point that youd go WOW this is almost "
-		+ "too salty for me to handle, but damn its nice).",
+		+ "until quite salty (almost to the point of being too salty).",
 	11  : "Add 2-3 tbsp per bowl (according to taste or bowl size)."
 };
