@@ -58,7 +58,7 @@ var notes = [
 	},
 	{
 		q : "How much tare do you usually put in?",
-		a : "~ 2-3 tbs of tare per bowl. You can also add salt, find a balance."
+		a : "~2-3 tbs of tare per bowl. You can also add salt, find a balance."
 	},
 	{
 		q : "Weight for tare ingredients?",

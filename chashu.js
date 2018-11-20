@@ -13,8 +13,8 @@ var chashu = {
 
 var chashuIngredients = {
 	porkBelly    : "4 lbs",
-	soy          : "1 cup(2 parts)",
-	mirin        : "1/2 cup(1 part)",
+	soy          : "1 cup (2 parts)",
+	mirin        : "1/2 cup (1 part)",
 	sake         : "1/2 cup (1 part)",
 	water        : "1 cup (2 part)",
 	greenOnion   : "1 bunch",
@@ -22,7 +22,7 @@ var chashuIngredients = {
 	garlic       : "~3-5 cloves",
 	leek         : 1,
 	sugar        : "pinch",
-	shaoxingWine : "1/4 cup",
+	shaoxingWine : "~2-3 tbs",
   cookingTwine : "n"
 };
 
