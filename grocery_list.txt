@@ -1,0 +1,43 @@
+//////////////////
+// GROCERY LIST //
+//////////////////
+
+
+
+//////////
+// MEAT //
+//////////
+
+[ ]  Pork Belly ------------------ ~4 lbs (2 slabs)
+[ ]  Chicken Feet ---------------- 2 lbs
+[ ]  Chicken Backs --------------- 3 lbs (Can be subsituted with Stewing Chicken)
+[ ]  Stewing Chicken ------------- ~2-3 lbs
+[ ]  Pork Neck Bones ------------- ~4-6 lbs
+
+
+
+/////////////
+// PRODUCE //
+/////////////
+
+[ ]  Leek ------------------------ 1
+[ ]  Onion ----------------------- 1
+[ ]  Galic ----------------------- 2 bulbs
+[ ]  Ginger ---------------------- 1 2-inch piece
+[ ]  Green Onion ----------------- 2 bunches
+
+
+
+///////////////////
+// MISCELLANEOUS //
+///////////////////
+
+[ ]  eggs ------------------------ 6
+[ ]  sun noodles ----------------- ~5-6 packages
+[ ]  menma ----------------------- 1 jar
+[ ]  shiitake mushrooms ---------- 1 package
+[ ]  nori ------------------------ 1 package
+[ ]  soy sauce ------------------- 1 bottle
+[ ]  sesame oil ------------------ 1 bottle
+[ ]  cooking-twine --------------- 1 ball
+[ ]  salt ------------------------ n/a
