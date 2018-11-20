@@ -31,10 +31,10 @@ var chashuInstructionsPressureCooker = {
 	2 : "Use twine to tightly tie porkbelly",
 	3 : "Blanch porkbelly ~10 minutes",
 	4 : "Add porkbelly, soy, mirin, sake, water, greenOnion, ginger, leek, "
-      + "shaoxing wine, and surgar into a pot",
+			+ "shaoxing wine, and surgar into a pot",
 	5 : "Prep the pressure cooker, then cook on high pressure for ~60-90 minutes",
 	6 : "Heat a sauce pan over medium-high heat, when the pan is hot brown the "
-	    + "pork on all side",
+			+ "pork on all side",
 	7 : "Move contents to a container and place in the ridge too cool",
 	8 : "Remove any solid fatty oil at the top"
 };
@@ -45,7 +45,7 @@ var chashuInstructions = {
 	2 : "Roll up porkbelly",
 	3 : "Sear on all sides",
 	4 : "Add porkbelly, soy, mirin, sake, water, greenOnion, ginger, leek, "
-      + "shaoxing wine, and surgar into a pot",
+			+ "shaoxing wine, and surgar into a pot",
 	5 : "Bring to a boil, cover with foil (or Otoshi Buta,) cover with a drop lid",
 	6 : "Braise at 225 degrees (medium-low) in marinade for ~2-3 hours or until tender",
 	7 : "Occasionally turn, until there is 1/4 inch liquid left in the pot",

@@ -21,7 +21,7 @@ var mayuInstructions = {
 	4  : "After they are slightly cooked lower the heat to low",
 	5  : "Cook for about 20 mins stirring frequently",
 	6  : "Garlic will slowly go from brown to black...do not over cook it will "
-       + "become bitter",
+			+ "become bitter",
 	7  : "When most of the garlic is turning black it will start to get sticky",
 	8  : "Transfer to a heatproof dish",
 	9  : "Add sesame oil",
