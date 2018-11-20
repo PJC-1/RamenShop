@@ -8,9 +8,9 @@ var softBoiledEgg = {
 	notes              : {
 		1 : "For temperature consistency, use eggs straight from the refrigerator",
 		2 : "Gentily crack the egg all over and then place back in water for ~1 hour, "
-		+ "this will help with peeling the shell",
+			+ "this will help with peeling the shell",
 		3 : "Generally takes about 12 minutes to fully hard boil an egg, so the "
-		+ "soft-boiled egg is ~6-6.5 minutes",
+			+ "soft-boiled egg is ~6-6.5 minutes",
 		4 : "You can use chashu marinade",
 		5 :  "Move eggs around for the first minute"
 	},
