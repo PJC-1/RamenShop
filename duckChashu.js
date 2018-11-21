@@ -16,15 +16,15 @@ var duckChashuIngredients = {
 
 var duckChashuNotes = {
 	1 : "Liquid shio koji can work for this receipe.",
-  2 : "Cooking time is important.",
-  3 : "No need for additional seasoning, koji is salty and has a complex taste "
-    + "of umami, sweet, salty, and slight bitterness."
+	2 : "Cooking time is important.",
+	3 : "No need for additional seasoning, koji is salty and has a complex taste "
+		+ "of umami, sweet, salty, and slight bitterness."
 };
 
 
 var duckChashuInstructions = {
 	1  : "Add 1 tbs of Shio Koji to the duck breast. Rub and place in a zip lock "
-    + "bag. Ensure that the bag is air tight.",
+		+ "bag. Ensure that the bag is air tight.",
 	2  : "Marinate the duck breast for at least 4 hours.",
 	3  : "Wipe off the koji and keep your duck dry.",
 	4  : "Score the duck skin.",
@@ -33,8 +33,8 @@ var duckChashuInstructions = {
 		+ "the duck skin side on the cold pan. Turn the stove on.",
 	7  : "Stove should be on medium-hight. Let the duck render for ~1-2 minutes.",
 	8  : "Watch out as the duck burns easily because of the surgars in the koji.",
-  9  : "It will be dark. This is normal. Flip the duck, meat-side and sear for 2 minutes.",
-  10 : "Place in the oven for another ~3.5-4 minutes (resting time also adds to "
-    + "the cooking time)",
-  11 : "Remove the duck from the oven and let it rest for 2 minutes."
+	9  : "It will be dark. This is normal. Flip the duck, meat-side and sear for 2 minutes.",
+	10 : "Place in the oven for another ~3.5-4 minutes (resting time also adds to "
+		+ "the cooking time)",
+	11 : "Remove the duck from the oven and let it rest for 2 minutes."
 };
