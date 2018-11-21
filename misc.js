@@ -2,7 +2,6 @@
 // MISCELLANEOUS //
 ///////////////////
 
-
 ////////////
 // DAY 01 //
 ////////////
@@ -34,6 +33,7 @@ var vocabulary = {
 	mayu            : "Black garlic oil",
 	kombu           : "Dried kelp"
 };
+
 
 ///////////
 // NOTES //

@@ -3,28 +3,30 @@
 ////////////
 
 var chashu = {
+	prepareAheadOfTime : true,
 	type               : "pork belly",
 	price              : "$6.99 /Lb",
-	prepareAheadOfTime : true,
 	notes              : {
 		1 : "You can reheat the slices of pork belly in some ramen broth"
 	}
 };
 
+
 var chashuIngredients = {
 	porkBelly    : "4 lbs",
+	shaoxingWine : "~2-3 tbs",
+	cookingTwine : "n"
+	greenOnion   : "1 bunch",
 	soy          : "1 cup (2 parts)",
 	mirin        : "1/2 cup (1 part)",
 	sake         : "1/2 cup (1 part)",
 	water        : "1 cup (2 part)",
-	greenOnion   : "1 bunch",
 	ginger       : "1 thumb-size piece",
 	garlic       : "~3-5 cloves",
 	leek         : 1,
-	sugar        : "pinch",
-	shaoxingWine : "~2-3 tbs",
-	cookingTwine : "n"
+	sugar        : "pinch"
 };
+
 
 var chashuInstructionsPressureCooker = {
 	1 : "Roll up porkbelly",

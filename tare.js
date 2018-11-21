@@ -14,6 +14,7 @@ var tareIngredients = {
 	salt         : "to taste (~ 3 tbs)"
 };
 
+
 var tareInstructions = {
 	1   : "Add water to the kombu enough to cover. Let sit overnight, or at "
 		+ "least 3 hours, in the fridge.",

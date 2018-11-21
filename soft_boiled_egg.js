@@ -18,6 +18,7 @@ var softBoiledEgg = {
 	prepareAheadOfTime : true
 };
 
+
 var softBoiledEggIngredients = {
 	eggs  : "n",
 	soy   : "2 parts",
@@ -25,6 +26,7 @@ var softBoiledEggIngredients = {
 	mirin : "1 part",
 	sake  : "1 part"
 };
+
 
 var softBoiledEggInstructions = {
 	1 : "Bring water to a boil.",

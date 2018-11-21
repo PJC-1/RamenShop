@@ -25,18 +25,20 @@ var brothProteins = [
 	}
 ];
 
+
 var brothIngredients = {
-	porkNeckBones   : "4.5-5.5 lbs",
+	porkNeckBones   : "4.5-6 lbs",
 	chickenBacks    : "3 lbs",
 	chickenFeet     : "2 lbs",
 	onion           : 1,
 	garlicCloves    : 10,
 	ginger          : "1 2-inch piece",
-	kombu           : "5 3x3 inch squares (or 1 sheet)",
+	kombu           : "5 3x3 inch squares (~1 sheet)",
 	niboshi         : "3/4 cup",
 	bonitoFlakes    : "1 cup",
 	shitakeMushroms : "10 caps"
 };
+
 
 var brothInstructions = {
 	1  : "Soak the pork-bones in cold water in a large container, for at least 6 "
