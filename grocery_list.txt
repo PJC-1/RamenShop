@@ -13,6 +13,7 @@
 [ ]  Pork Neck Bones ------------- ~4-6 lbs
 [ ]  Chicken Feet ---------------- 2 lbs
 [ ]  Chicken Backs --------------- 3 lbs (Can be subsituted with Stewing Chicken)
+[ ]  Duck Breast ----------------- 1
 
 
 
@@ -37,6 +38,7 @@
 [ ]  Cooking-twine --------------- 1 ball
 [ ]  Soy Sauce ------------------- 1 bottle
 [ ]  Sesame Oil ------------------ 1 bottle
+[ ]  Shio Koji ------------------- 1 jar/bottle
 [ ]  Menma ----------------------- 1 jar
 [ ]  Nori ------------------------ 1 package
 [ ]  Eggs ------------------------ 6

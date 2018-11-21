@@ -2,6 +2,7 @@
 // MISCELLANEOUS //
 ///////////////////
 
+
 ////////////
 // DAY 01 //
 ////////////
@@ -30,6 +31,10 @@ var vocabulary = {
 	katsuobushi     : "Dried fermented and smoked skipjack tuna (aka bonito flakes)",
 	ajitsuke_tamago : "Marinated soft boiled egg",
 	niboshi         : "Dried baby sardines",
+	shio_koji       : "Shio koji is a natural seasoning used to marinate, "
+		+ "tenderize, and enhance the umami, or richness (one of the five basic "
+		+ "tastes) in foods. It's made of just a few simple ingredients: salt, "
+		+ "water and rice koji.",
 	mayu            : "Black garlic oil",
 	kombu           : "Dried kelp"
 };
