@@ -4,30 +4,26 @@
 
 var brothProteins = [
 	{
-		type  : "pork neck bone",
-		price : "$1.99 /Lb"
+		type  : "pork neck bone"
 	},
 	{
-		type  : "pork femur bone",
-		price : "$1.99 /Lb"
+		type  : "pork femur bone"
 	},
 	{
-		type  : "chicken back",
-		price : "$1.99 /Lb"
+		type  : "chicken back"
 	},
 	{
-		type  : "chicken feet",
-		price : "$1.99 /Lb"
+		type  : "chicken feet"
 	},
 	{
-		type  : "stewing chicken",
-		price : "$1.99 /Lb"
+		type  : "whole chicken"
 	}
 ];
 
 
 var brothIngredients = {
 	porkNeckBones   : "4.5-6 lbs",
+	wholeChicken	: 1,
 	chickenBacks    : "3 lbs",
 	chickenFeet     : "2 lbs",
 	onion           : 1,
@@ -41,7 +37,7 @@ var brothIngredients = {
 
 
 var brothInstructions = {
-	1  : "Soak the pork-bones in cold water in a large container, for at least 6 "
+	1  : "Soak the pork-bones, chicken feet, and whole chicken in cold water in separate containers, for at least 6 "
 		+ "hours, and up to 24 hours.",
 	2  : "Drain the bones, add them to a pot with fresh water covering them by 2 "
 		+ "inches, and bring to a boil over high heat.",
@@ -49,9 +45,9 @@ var brothInstructions = {
 		+ "minutes, or until little to no scum rises.",
 	4  : "Strain the bones again, and scrub away any black material, such as "
 		+ "coagulated blood, from the bones and pot.",
-	5  : "Blanch the chicken-feet and chicken-backs/stewing chicken for 5 minutes "
+	5  : "Blanch the chicken-feet and chicken-backs/whole chicken for 10-15 minutes "
 		+ "in water. Strain, and snip-off toenails from the chicken-feet.",
-	6  : "Add the chicken-backs/stewing chicken, chicken-feet, and pork-bones to a "
+	6  : "Add the chicken-backs/whole chicken, chicken-feet, and pork-bones to a "
 		+ "stock pot and cover with water.",
 	7  : "Bring the stock up to 176 on high heat. Hold here for one hour",
 	8  : "Reduce heat back down to the lowest possible boil (medium-low), hold for "

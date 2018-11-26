@@ -4,13 +4,16 @@
 
 var mayu = {
 	description        : "black garlic oil",
-	prepareAheadOfTime : true
+	prepareAheadOfTime : true,
+	notes              : {
+		1 : "Shake mayu well to ensure contents are completely mixed before use."
+	}
 
 };
 
 
 var mayuIngredients = {
-	garlic       : "10 cloves peeled and minced (makes ~ 3.5 tbs)",
+	garlic       : "10 cloves (or 1 bulb) peeled and minced (makes ~ 3.5 tbs)",
 	vegitableOil : "1/4 cup",
 	sesameOil    : "1/4 cup"
 };

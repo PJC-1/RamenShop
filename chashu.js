@@ -14,7 +14,7 @@ var chashu = {
 
 var chashuIngredients = {
 	porkBelly    : "4 lbs",
-	shaoxingWine : "~2-3 tbs",
+	shaoxingWine : "~1-2 tbs",
 	cookingTwine : "n",
 	greenOnion   : "1 bunch",
 	soy          : "1 cup (2 parts)",

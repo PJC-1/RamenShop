@@ -8,12 +8,12 @@
 // MEAT //
 //////////
 
-[ ]  Pork Belly ----------------- ~4 lbs (2 slabs)
-[ ]  Stewing Chicken ------------- ~2-3 lbs
-[ ]  Pork Neck Bones ------------- ~4-6 lbs
+[ ]  Pork Belly ------------------ ~4 lbs (2 slabs)
+[ ]  Whole Chicken --------------- 1
+[ ]  Pork Neck Bones ------------- ~5-6 lbs
 [ ]  Chicken Feet ---------------- 2 lbs
-[ ]  Chicken Backs --------------- 3 lbs (Can be subsituted with Stewing Chicken)
-[ ]  Duck Breast ----------------- 1
+[ ]  Chicken Backs --------------- 3 lbs (Can be subsituted with 1 Whole Chicken)
+[ ]  Duck Breast ----------------- 4
 
 
 
@@ -33,7 +33,7 @@
 // MISCELLANEOUS //
 ///////////////////
 
-[ ]  Sun Noodles ----------------- ~5-6 packages
+[ ]  Sun Noodles ----------------- 5 packages
 [ ]  Shiitake Mushrooms ---------- 1 package
 [ ]  Cooking-twine --------------- 1 ball
 [ ]  Soy Sauce ------------------- 1 bottle
@@ -41,5 +41,5 @@
 [ ]  Shio Koji ------------------- 1 jar/bottle
 [ ]  Menma ----------------------- 1 jar
 [ ]  Nori ------------------------ 1 package
-[ ]  Eggs ------------------------ 6
+[ ]  Eggs ------------------------ 12
 [ ]  Salt ------------------------ n/a

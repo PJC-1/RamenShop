@@ -11,7 +11,7 @@ var tareIngredients = {
 	niboshi      : "3/4 cup",
 	sake         : "1/4 cup",
 	mirin        : "1/4 cup",
-	salt         : "to taste (~ 3 tbs)"
+	salt         : "to taste"
 };
 
 
@@ -34,5 +34,5 @@ var tareInstructions = {
 		+ "few minutes to concentrate.",
 	10  : "Add in an equal part of the fish broth made earlier. Season with salt "
 		+ "until quite salty (almost to the point of being too salty).",
-	11  : "Add 2-3 tbsp per bowl (according to taste or bowl size)."
+	11  : "Add ~3 tbsp per bowl (according to taste or bowl size)."
 };

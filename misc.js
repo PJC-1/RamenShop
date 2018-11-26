@@ -7,7 +7,7 @@
 // DAY 01 //
 ////////////
 
-// 1. Place pork bones in a big bowl filled with water in the fridge over-night.
+// 1. Place pork bones, chicken feet, and whole chicken in separate containers filled with water in the fridge over-night.
 // 2. Cook chashu and then place in fridge over-night.
 // 3. Soak kombu over-night in the fridge.
 // 4. Prepare mayu.
@@ -47,7 +47,7 @@ var vocabulary = {
 var notes = [
 	{
 		q : "How many servings did the recipe yeild?",
-		a : "10 - 14 servings (depending on the size of the bowl)."
+		a : "~10 servings (depending on the size of the bowl)."
 	},
 	{
 		q : "What size pot do you use to cook the broth?",
@@ -59,8 +59,16 @@ var notes = [
         + "bones to be able to move around and be totally submerged."
 	},
 	{
-		q : "How much tare do you usually put in?",
-		a : "~2-3 tbs of tare per bowl. You can also add salt, find a balance."
+		q : "How much tare and broth go into each bowl?",
+		a : "~3 tbs of tare and ~4 ladels of broth per bowl."
+	},
+	{
+		q : "How long to cook sun noodles?",
+		a : "45 seconds to 1 minute of cooking time in boiling water."
+	},
+	{
+		q : "How can I heat my bowls prior to serving?",
+		a : "Preheat bowls with boiling water."
 	},
 	{
 		q : "Weight for tare ingredients?",
