@@ -8,11 +8,11 @@
 // MEAT //
 //////////
 
-[ ]  Pork Belly ------------------ ~4 lbs (2 slabs)
+[ ]  Pork Belly ------------------ ~4-5 lbs (2 slabs)
 [ ]  Whole Chicken --------------- 1
 [ ]  Pork Neck Bones ------------- ~5-6 lbs
 [ ]  Chicken Feet ---------------- 2 lbs
-[ ]  Chicken Backs --------------- 3 lbs (Can be subsituted with 1 Whole Chicken)
+[ ]  Chicken Backs --------------- 3 lbs (Can be substituted with 1 Whole Chicken)
 [ ]  Duck Breast ----------------- 4
 
 
@@ -22,10 +22,10 @@
 /////////////
 
 [ ]  Ginger ---------------------- 1 2-inch piece
-[ ]  Green Onion ----------------- 2 bunches
+[ ]  Green Onion ----------------- ~2-3 bunches
 [ ]  Leek ------------------------ 1
 [ ]  Onion ----------------------- 1
-[ ]  Galic ----------------------- 2 bulbs
+[ ]  Garlic ---------------------- ~2-3 bulbs
 
 
 
@@ -33,13 +33,21 @@
 // MISCELLANEOUS //
 ///////////////////
 
-[ ]  Sun Noodles ----------------- 5 packages
+[ ]  Sun Noodles ----------------- ~4-8 packages
 [ ]  Shiitake Mushrooms ---------- 1 package
 [ ]  Cooking-twine --------------- 1 ball
 [ ]  Soy Sauce ------------------- 1 bottle
+[ ]  Vegitable Oil --------------- 1 bottle
 [ ]  Sesame Oil ------------------ 1 bottle
 [ ]  Shio Koji ------------------- 1 jar/bottle
 [ ]  Menma ----------------------- 1 jar
 [ ]  Nori ------------------------ 1 package
 [ ]  Eggs ------------------------ 12
 [ ]  Salt ------------------------ n/a
+[ ]  Sugar ----------------------- n/a
+[ ]  Sake ------------------------ 1 bottle
+[ ]  Mirin ----------------------- 1 bottle
+[ ]  Kombu ----------------------- 1 package
+[ ]  Niboshi --------------------- 1 package
+[ ]  Bonito Flakes --------------- 1 package
+[ ]  Ligher Butane Refil --------- n/a
