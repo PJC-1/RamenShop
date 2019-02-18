@@ -11,6 +11,7 @@
 // 2. Cook chashu and then place in fridge over-night.
 // 3. Soak kombu over-night in the fridge.
 // 4. Prepare mayu.
+// 5. Marinate duck with shio koji.
 
 
 ////////////

@@ -13,7 +13,7 @@
 [ ]  Pork Neck Bones ------------- ~5-6 lbs
 [ ]  Chicken Feet ---------------- 2 lbs
 [ ]  Chicken Backs --------------- 3 lbs (Can be substituted with 1 Whole Chicken)
-[ ]  Duck Breast ----------------- 4
+[ ]  Duck Breast ----------------- 4 (Duck leg can be used as substitute)
 
 
 
@@ -21,9 +21,9 @@
 // PRODUCE //
 /////////////
 
-[ ]  Ginger ---------------------- 1 2-inch piece
+[ ]  Ginger ---------------------- 2 2-inch piece
 [ ]  Green Onion ----------------- ~2-3 bunches
-[ ]  Leek ------------------------ 1
+[ ]  Leek ------------------------ ~1-2
 [ ]  Onion ----------------------- 1
 [ ]  Garlic ---------------------- ~2-3 bulbs
 
@@ -48,6 +48,6 @@
 [ ]  Sake ------------------------ 1 bottle
 [ ]  Mirin ----------------------- 1 bottle
 [ ]  Kombu ----------------------- 1 package
-[ ]  Niboshi --------------------- 1 package
+[ ]  Niboshi --------------------- 1 package (enough for 2 cups)
 [ ]  Bonito Flakes --------------- 1 package
 [ ]  Ligher Butane Refil --------- n/a

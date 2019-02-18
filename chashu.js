@@ -13,7 +13,7 @@ var chashu = {
 
 
 var chashuIngredients = {
-	porkBelly    : "4 lbs",
+	porkBelly    : "~4-5 lbs",
 	shaoxingWine : "~1-2 tbs",
 	cookingTwine : "n",
 	greenOnion   : "1 bunch",
@@ -29,16 +29,18 @@ var chashuIngredients = {
 
 
 var chashuInstructionsPressureCooker = {
-	1 : "Roll up porkbelly",
-	2 : "Use twine to tightly tie porkbelly",
-	3 : "Blanch porkbelly ~10 minutes",
-	4 : "Add porkbelly, soy, mirin, sake, water, greenOnion, ginger, leek, "
-		+ "shaoxing wine, and surgar into a pot",
-	5 : "Prep the pressure cooker, then cook on high pressure for ~60-90 minutes",
-	6 : "Heat a sauce pan over medium-high heat, when the pan is hot brown the "
-		+ "pork on all side",
-	7 : "Move contents to a container and place in the ridge too cool",
-	8 : "Remove any solid fatty oil at the top"
+	1  : "Roll up porkbelly",
+	2  : "Use twine to tightly tie porkbelly",
+	3  : "Blanch porkbelly ~10 minutes",
+	4  : "Scrape off the outside skin of the Ginger with a spoon",
+	5	 : "Clean Leeks thoroughly",
+	6  : "Add porkbelly, soy, mirin, sake, water, greenOnion, ginger, garlic, leek, "
+		 + "shaoxing wine, and surgar into a pot",
+	7  : "Prep the pressure cooker, then cook on high pressure for ~60-90 minutes",
+	8  : "Heat a sauce pan over medium-high heat, when the pan is hot brown the "
+		 + "pork on all side",
+	9  : "Move contents to a container and place in the ridge too cool",
+	10 : "Remove any solid fatty oil at the top"
 };
 
 
@@ -46,7 +48,7 @@ var chashuInstructions = {
 	1 : "Salt porkbelly",
 	2 : "Roll up porkbelly",
 	3 : "Sear on all sides",
-	4 : "Add porkbelly, soy, mirin, sake, water, greenOnion, ginger, leek, "
+	4 : "Add porkbelly, soy, mirin, sake, water, greenOnion, ginger, garlic, leek, "
 		+ "shaoxing wine, and surgar into a pot",
 	5 : "Bring to a boil, cover with foil (or Otoshi Buta,) cover with a drop lid",
 	6 : "Braise at 225 degrees (medium-low) in marinade for ~2-3 hours or until tender",
