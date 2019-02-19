@@ -23,7 +23,7 @@ var brothProteins = [
 
 var brothIngredients = {
 	porkNeckBones   : "4.5-6 lbs",
-	wholeChicken	: 1,
+	wholeChicken		: 1,
 	chickenBacks    : "3 lbs",
 	chickenFeet     : "2 lbs",
 	onion           : 1,
